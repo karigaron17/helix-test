@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/test",
+  "name": "@adobe/helix-project-boilerplate",
   "private": true,
   "version": "1.0.0",
   "description": "Starter project for Adobe Helix",
